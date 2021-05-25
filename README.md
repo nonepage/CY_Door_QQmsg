@@ -1,7 +1,5 @@
 # door_contrl
 
-## How to start
 
-1. generate project using `nb create` .
-2. writing your plugins under `door_contrl/plugins` folder.
-3. run your bot using `nb run` .
+
+基于nonebot的qq机器人，配合CY_Door_Flask项目实现qq发送消息开门
