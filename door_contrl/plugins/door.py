@@ -2,7 +2,7 @@ from nonebot import on_command
 from nonebot.rule import to_me
 from nonebot.typing import T_State
 from nonebot.adapters import Bot, Event
-from nonebot.permission import USER
+
 import random
 import httpx
 from nonebot.adapters.cqhttp.permission import GROUP_ADMIN
